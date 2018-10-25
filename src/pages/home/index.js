@@ -1,14 +1,3 @@
-/**
- * File: /Users/fengchengpu/Project/XBProject/CBCenter/src/pages/home/index.js
- * Project: /Users/fengchengpu/Project/XBProject/CBCenter
- * Created Date: Friday November 24th 2017 2:14:39 pm
- * Author: chengpu
- * -----
- * Last Modified:Friday November 24th 2017 2:14:39 pm
- * Modified By: chengpu
- * -----
- * Copyright (c) 2017 MagCloud
- */
 import React, { Component } from "react";
 import { Selecter, BaseActions } from "tomatobean";
 import { sayHello } from "../../models/home.m";
