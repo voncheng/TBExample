@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { RootRouteConnect } from "tomatobean";
-
 import "./App.css";
 
 @RootRouteConnect
